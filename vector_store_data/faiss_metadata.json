@@ -1,0 +1,20 @@
+[
+  {
+    "text": "Anushka Dutta\n+91-9508335969 | anushkadutta746512@gmail.com | LinkedIn | GitHub | LeetCode\nEducation\nManipal University Jaipur Aug 2023 \u2013 May 2027\nBachelor of Technology in Computer Science Engineering: CGPA: 8.44/10 Jaipur, India\nTechnical Skills\nLanguages: Python, C, JavaScript, SQL, Kotlin, HTML, CSS\nFrameworks & Libraries: React.js, Node.js, Express.js, TensorFlow, Keras, Scikit-learn, NumPy, Pandas\nDatabases: MongoDB, MySQL, SQLite\nDevOps, Deployment & Monitoring: Docker, NGINX, Prometheus, Grafana\nTools & Technologies: Git, GitHub, Firebase, Android Studio, REST APIs\nExperience\nBharat Coking Coal Limited Jun\u2013Jul 25\nSoftware Developer Intern Dhanbad, Jharkhand\n\u2022 Engineered a full-stack Human Resource Management System (HRMS) using React.js, Node.js, Express.js, and\nMongoDB, supporting 200+ employees and improving attendance and leave tracking efficiency by 40 percent\n\u2022 Designed JWT-based authentication and developed 15+ RESTful APIs to enable secure data exchange across\n5 departme",
+    "source": "pdf",
+    "filename": "Resume (3).pdf",
+    "chunk_id": 0
+  },
+  {
+    "text": "based authentication and developed 15+ RESTful APIs to enable secure data exchange across\n5 departments with 99.9 percent uptime\n\u2022 Optimized MongoDB queries and indexing for collections with 10,000+ records, reducing response time by 30\npercent and increasing system scalability by 50 percent\nProjects\nColon Cancer Detection using ResNet50 and DenseNet121\n\u2022 Built deep learning models using ResNet50 and DenseNet121 to classify histopathology images from LC25000\nand Kvasir datasets, achieving 99 percent and 97 percent test accuracy respectively\n\u2022 Applied Explainable AI (XAI) techniques to visualize predictions and enhance interpretability for medical\nanalysis\n\u2022 Designed a data preprocessing pipeline incorporating PCA for feature extraction and dimensionality reduction\n\u2022 Research paper accepted at AICCoNS 2026 (Scopus-indexed AIP Conference Proceedings, in press)\nBlue-Green Deployment Pipeline with Automated Canary Analysis\n\u2022 Built a zero-downtime deployment system using Docker-based Blue-G",
+    "source": "pdf",
+    "filename": "Resume (3).pdf",
+    "chunk_id": 1
+  },
+  {
+    "text": "e with Automated Canary Analysis\n\u2022 Built a zero-downtime deployment system using Docker-based Blue-Green architecture with NGINX\n\u2022 Developedan automatedcanary analysisscript to route partialtraffic andtrigger rollback iferror rate exceeded\nthreshold\n\u2022 Integrated Prometheus and Grafana for real-time monitoring of system metrics (latency, errors, requests)\n\u2022 Performed load testing using Locust to simulate concurrent users and validate system reliability under stress\nCalorie Counter Android Application\n\u2022 Developed an offline-first Android application using Java, Kotlin, SQLite, and Firebase Authentication for\ncalorie tracking\nCertifications\nIT Automation with Python \u2014 Google\nDatabase Programming with SQL \u2014 Oracle\nAwards and Recognition\nDean\u2019s List Awardee (2nd and 5th semester) \u2014 Manipal University Jaipur\nSemi-Finalist \u2014 Flipkart Grid 7.0",
+    "source": "pdf",
+    "filename": "Resume (3).pdf",
+    "chunk_id": 2
+  }
+]
